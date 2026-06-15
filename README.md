@@ -1,2 +1,3 @@
-# 2d-mini-stategy-Battle-simulator
-Mini Strategy Battle Simulator is an online multiplayer game developed using Java Swing and based on Object Oriented Programming (OOP) concepts. The game provides a two dimensional battle arena where two players compete against each other. Players can move freely around the map, shoot bullets using guns, throw bombs to deal heavy damage.
+<img width="2171" height="88" alt="image" src="https://github.com/user-attachments/assets/6b24b564-8490-4efd-a112-072715340e66" /># 2d-mini-stategy-Battle-simulator
+Mini Strategy Battle Simulator is an online multiplayer game developed using Java Swing and based on Object Oriented Programming (OOP) concepts. The game provides a two dimensional battle arena where two players compete against each other. Players can move freely around the map, shoot bullets using guns, throw bombs to deal heavy damage.The game follows a Best of 3 match system, where the first player to win two rounds is declared the overall winner. 
+
